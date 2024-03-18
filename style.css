@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+}
+.funcContainer{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.robot{
+    width:50%;
+}
+.numContainer{
+    border:solid blue;
+    width:120px;
+    height:60px;
+    margin:1em;
+    font-size:22px;
+    text-align:center;
+    padding-top: 5%;;
+}
